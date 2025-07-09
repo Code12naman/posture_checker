@@ -1,6 +1,6 @@
----
 
-```markdown
+
+markdown
 # 🧍‍♂️ Bad Posture Detection Web App
 
 A full-stack rule-based web application that allows users to upload videos and receive posture analysis feedback frame by frame. This project was built as a technical assignment for Realfy.
