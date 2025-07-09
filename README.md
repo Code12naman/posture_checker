@@ -129,10 +129,4 @@ This project is for assessment/demo purposes only and is not licensed for commer
 
 ---
 
-### 🔧 Want me to customize it with:
-- your GitHub link
-- a working video rule example
-- or auto-deploy setup?
 
-Just ask — I’ll add it for you.
-```
