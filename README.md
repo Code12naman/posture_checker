@@ -98,10 +98,10 @@ Then visit `http://localhost:3000`
 
 You can deploy this app easily on:
 
-* [Vercel](https://vercel.com)
-* [Netlify](https://netlify.com)
+* [Vercel](https://posture-checker-gamma.vercel.app/) 
 
-Just push to GitHub and connect the repo.
+## Video 
+[video](https://drive.google.com/file/d/1Pk49C60ceLv-FI_CFxJriov2OIGgzWIl/view?usp=drivesdk)
 
 ---
 
